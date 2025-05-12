@@ -6,3 +6,5 @@ Abstract: We present a novel computational framework for quantifying the visual 
 Please see our paper at: https://docs.google.com/document/d/1VtuPxiVDN5ev3vOd_i0OzNbVQaa89prtpVSsB_FPvW4/edit?usp=sharing
 All have permission to comment. Please freel free to ask questions or suggest improvements. Thank you!
 -Tommaso R. Marena, Catholic University of America, Chemistry Department
+
+A special thanks Dr. Katherine Havanki for being an wonderful research mentor who never ceases to inspire curiosity. 
